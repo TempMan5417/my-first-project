@@ -29,3 +29,7 @@ if __name__ == "__main__":
 # 추가 테스트
 print("🔥 Cursor에서 실시간 수정 테스트!")
 print("이 줄을 추가하고 바로 GitHub에 올려봅시다!")
+
+
+# 추가 2 테스트
+print("🔥 Cursor에서 실시간 수정 테스트2222")
